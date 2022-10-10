@@ -1,12 +1,11 @@
+<h3 align="center"><img src="https://i.imgur.com/OiUOU2n.jpg" alt="logo" height="250px"></h3>
+
 # BRATA RAT OFFICIAL PAGE
 BRATA RAT  - Advanced Android Remote Tool since 2018 - 2022
 
-![Untitled](https://i.imgur.com/OiUOU2n.jpg)
+![Untitled](https://i.imgur.com/1rjXlPY.jpg)
 
 Brazilian Rat ( Brata Rat )
-
-
-![33](https://i.imgur.com/1rjXlPY.jpg)
 
 
 This is a fully equiped android remote administration tool developed by an unidentified programmer ( a member of a secret cyber-activist criminals ).
